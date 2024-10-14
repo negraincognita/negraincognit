@@ -1,4 +1,5 @@
-# negraincognitBoas vindas ao meu perfil 💙💙
+# negraincognit 
+Boas vindas ao meu perfil 💙💙
 Meu nome é Rafaelly Rodrigues
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
